@@ -1,5 +1,11 @@
 # OCR Text Extraction App
 
+## Live Demo
+
+🔗 https://ocr-text-extraction-653smvcyvh8nqodjlagvh9.streamlit.app/
+
+# OCR Text Extraction App
+
 A Python-based Optical Character Recognition (OCR) application that extracts text from images using the EasyOCR deep learning library. The project includes both a desktop OCR script and a user-friendly Streamlit web application for uploading images and downloading extracted text.
 
 ---
